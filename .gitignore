@@ -1,0 +1,11 @@
+# Python / env
+.venv/
+__pycache__/
+
+# Local data and DBs
+data/
+*.sqlite3
+*.db
+
+# Real env/secrets (example stays tracked)
+config/settings.env
